@@ -2,7 +2,7 @@
 
 ```$ python3 imdb.py```
 
-Если хотите запустить в докере: 
+### Если хотите запустить в докере: 
 
 ```git clone https://github.com/shishkinamila/IMDB.git && cd IMDB && docker build --tag avito-test-task . && docker run -it avito-test-task```
 
